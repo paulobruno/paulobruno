@@ -1,0 +1,16 @@
+name: Latest publications workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-publications:
+    name: Update this repo's README with latest publications
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: PUBLICATION
+          feed_list: "https://paulobruno.github.io/feed.xml"
