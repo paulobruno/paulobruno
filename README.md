@@ -14,4 +14,9 @@ Also - and this is an important warning - don't expect me to create dozens of cl
 #### :page_facing_up: Latest publications and talks
 
 <!-- PUBLICATION:START -->
+- [Bots autônomos em StarCraft II](https://paulobruno.github.io/talk/bots-autonomos-starcraft/)
+- [A Minimal Training Strategy to Play Flappy Bird Indefinitely with NEAT](https://paulobruno.github.io/publication/SBGames-a-minimal-training/)
+- [How do robots see?](https://paulobruno.github.io/talk/how-do-robots-see/)
+- [A Method based on Convolutional Neural Networks for Fingerprint Segmentation](https://paulobruno.github.io/publication/IJCNN-a-method-based/)
+- [Evaluating Competition in Training of Deep Reinforcement Learning Agents in First-Person Shooter Games](https://paulobruno.github.io/publication/SBGames-evaluating-competition/)
 <!-- PUBLICATION:END -->
