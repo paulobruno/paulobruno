@@ -16,7 +16,7 @@ Also - and this is an important warning - don't expect me to create dozens of cl
 <!-- PUBLICATION:START -->
 - [Deep Reinforcement Learning: Today’s AIs that beat humans](https://paulobruno.github.io/talk/todays-ais-beat-humans/)
 - [Avanços tecnológicos na impressão 3D](https://paulobruno.github.io/talk/avancos-tecnologicos-impressao-3d/)
+- [A Novel Approach for Automatic Enhancement of Fingerprint Images via Deep Transfer Learning](https://paulobruno.github.io/publication/IJCNN-a-novel-approach/)
 - [Bots autônomos em StarCraft II](https://paulobruno.github.io/talk/bots-autonomos-starcraft/)
 - [A Minimal Training Strategy to Play Flappy Bird Indefinitely with NEAT](https://paulobruno.github.io/publication/SBGames-a-minimal-training/)
-- [How do robots see?](https://paulobruno.github.io/talk/how-do-robots-see/)
 <!-- PUBLICATION:END -->
