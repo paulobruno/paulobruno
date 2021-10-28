@@ -15,9 +15,9 @@ Also - and this is an important warning - don't expect me to create dozens of cl
 #### :page_facing_up: Latest publications and talks
 
 <!-- PUBLICATION:START -->
+- [Assessing the Robustness of Deep Q-Network Agents to Changes on Game Object Textures](https://paulobruno.github.io/publication/SBGames-assessing-robustness/)
 - [Investigating Deep Q-Network Agent Sensibility to Texture Changes on FPS Games](https://paulobruno.github.io/publication/SBGames-investigating-deep/)
 - [Deep Reinforcement Learning em Ambientes Virtuais](https://paulobruno.github.io/publication/SVR-drl-ambientes-virtuais/)
 - [Autonomous Foraging with SARSA-based Deep Reinforcement Learning](https://paulobruno.github.io/publication/SVR-autonomous-foraging/)
 - [Simplificando o Balanceamento de Atributos em RPGs Eletrônicos](https://paulobruno.github.io/publication/SBGames-simplificando-balanceamento/)
-- [Deep Reinforcement Learning: Today’s AIs that beat humans](https://paulobruno.github.io/talk/todays-ais-beat-humans/)
 <!-- PUBLICATION:END -->
