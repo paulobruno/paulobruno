@@ -1,6 +1,6 @@
 [![Website Badge](https://img.shields.io/badge/PB-Website-333333?style=for-the-badge&labelColor=333333)](https://paulobruno.github.io/)
+[![CV Badge](https://img.shields.io/badge/-CV-D14836?style=for-the-badge&logo=ReadTheDocs&logoColor=white)](https://paulobruno.github.io/assets/cv/PauloBrunoCv.pdf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pbserafim/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:pbrunosousa@gmail.com)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-5980-8149)
 
 ### Developer when awake, researcher all the time.
