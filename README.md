@@ -3,13 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pbserafim/)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white)](https://orcid.org/0000-0002-5980-8149)
 
-### Developer when awake, researcher all the time.
+### I love simple and fast code. And to pretend AIs enjoy playing video games as much as I do.
 
-_I love simple and fast code. And to pretend AIs enjoy playing video games as much as I do._
+_Great programmers write code for humans _and_ computers. Neglect any of those and you will write poor code. For one or the other._
 
-I work as a Research Engineer at [Inria](https://www.inria.fr/en/inria-centre-universite-cote-azur) and I'm also a [Deep Reinforcement Learning researcher](https://paulobruno.github.io/publications/). I always like to try novel approaches and find unusual ways to solve a problem, looking beyond the trivial solutions everybody knows. As such, some of my results are very very _awful_. Some others are very very _exciting_. And I think that's beautiful. 
+I'm a _PhD student_ in Computer Science at [GSSI](https://www.gssi.it/) and a [Deep Reinforcement Learning researcher](https://paulobruno.github.io/publications/). I always like to try novel approaches and find unusual ways to solve a problem, looking beyond the immediate solutions. As such, some of my results are very very _awful_. Some others are very very _exciting_. And I think that's beautiful. 
 
-Also - and this is an important warning - don't expect me to create dozens of classes with intricate multi-hierarchy objects. My goal is to write clean, simple, and, of course, fast code. However, I don't see performance as the main target, but rather as the result of treating the computer with care ([data-oriented design](http://gamesfromwithin.com/data-oriented-design), count on me).
+Also - and this is an important warning - don't expect me to create dozens of classes with intricate multi-hierarchy objects. My goal is to write clean, simple, and, of course, fast code. However, I don't see performance as the main target, but rather as the result of treating the computer with care. 
 
 #### I'm usually programming in one of these languages
 
