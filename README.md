@@ -22,9 +22,9 @@ Also - and this is an important warning - don't expect me to create dozens of cl
 #### :page_facing_up: Latest publications and talks
 
 <!-- PUBLICATION:START -->
+- [DRLeague: a Novel 3D Environment for Training Reinforcement Learning Agents](https://paulobruno.github.io/publication/SBGames-drleague/)
 - [Gym Hero: A Research Environment for Reinforcement Learning Agents in Rhythm Games](https://paulobruno.github.io/publication/SBGames-gym-hero/)
 - [Assessing the Robustness of Deep Q-Network Agents to Changes on Game Object Textures](https://paulobruno.github.io/publication/SBGames-assessing-robustness/)
 - [Robust Fingerprint Singular Point Detection using a Single-Stage CNN for Object Detection](https://paulobruno.github.io/publication/IWSSIP-robust-fingerprint/)
 - [Investigating Deep Q-Network Agent Sensibility to Texture Changes on FPS Games](https://paulobruno.github.io/publication/SBGames-investigating-deep/)
-- [Deep Reinforcement Learning em Ambientes Virtuais](https://paulobruno.github.io/publication/SVR-drl-ambientes-virtuais/)
 <!-- PUBLICATION:END -->
