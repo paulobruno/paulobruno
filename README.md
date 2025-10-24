@@ -9,11 +9,10 @@ I'm a _PhD student_ in Computer Science at [GSSI](https://www.gssi.it/) working 
 
 #### I'm usually programming in one of these languages
 
-[![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white)](https://github.com/paulobruno?tab=repositories&q=&type=&language=julia&sort=)
-[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=C&logoColor=black)](https://github.com/paulobruno?tab=repositories&q=&type=&language=c%2B%2B&sort=)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/paulobruno?tab=repositories&q=&type=&language=python&sort=)
+[![C/C++](https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=C&logoColor=black)](https://github.com/paulobruno?tab=repositories&q=&type=&language=c%2B%2B&sort=)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=Julia&logoColor=white)](https://github.com/paulobruno?tab=repositories&q=&type=&language=julia&sort=)
 [![ASM](https://img.shields.io/badge/Assembly-333333?style=flat-square)](https://github.com/paulobruno?tab=repositories&q=&type=&language=assembly&sort=)
-![LLVM](https://img.shields.io/badge/LLVM%20IR-262D3A?style=flat-square&logo=LLVM&logoColor=white)
 
 #### :page_facing_up: Latest publications and talks
 
