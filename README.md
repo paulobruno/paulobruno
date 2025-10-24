@@ -5,11 +5,7 @@
 
 ### I love simple and fast code. And to pretend AIs enjoy playing video games as much as I do.
 
-_Great programmers write code for humans _and_ computers. Neglect any of those and you will write poor code. For one or the other._
-
-I'm a _PhD student_ in Computer Science at [GSSI](https://www.gssi.it/) and a [Deep Reinforcement Learning researcher](https://paulobruno.github.io/publications/). I always like to try novel approaches and find unusual ways to solve a problem, looking beyond the immediate solutions. As such, some of my results are very very _awful_. Some others are very very _exciting_. And I think that's beautiful. 
-
-Also - and this is an important warning - don't expect me to create dozens of classes with intricate multi-hierarchy objects. My goal is to write clean, simple, and, of course, fast code. However, I don't see performance as the main target, but rather as the result of treating the computer with care. 
+I'm a _PhD student_ in Computer Science at [GSSI](https://www.gssi.it/) working on [Conversational Explainable AI](https://paulobruno.github.io/publications/). I always like to try novel approaches and find unusual ways to solve a problem, looking beyond the immediate solutions. As such, some of my results are very very _awful_. Some others are very very _exciting_. And I think that's beautiful. 
 
 #### I'm usually programming in one of these languages
 
