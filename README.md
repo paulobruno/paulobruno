@@ -17,9 +17,9 @@ I'm a _PhD student_ in Computer Science at [GSSI](https://www.gssi.it/) working 
 #### :page_facing_up: Latest publications and talks
 
 <!-- PUBLICATION:START -->
+- [MAINLE: a Multi-Agent, Interactive, Natural Language Local Explainer of Classification Tasks](https://paulobruno.github.io/publication/ECML-PKDD-mainle/)
+- [Using Curriculum to Train Multisensory Foraging DRL Agents](https://paulobruno.github.io/publication/SBGames-using-curriculum/)
+- [Exploring Large Language Models Capabilities to Explain Decision Trees](https://paulobruno.github.io/publication/HHAI-exploring/)
 - [WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models](https://paulobruno.github.io/publication/JOSS-worlddynamics/)
 - [Exploring Large Language Models Capabilities to Explain Decision Trees](https://paulobruno.github.io/talk/exploring-llms-capabilities/)
-- [Unveiling the Key Features Influencing Game Agents with Different Levels of Robustness](https://paulobruno.github.io/publication/SBGames-unveiling/)
-- [Integrated assessment modeling using WorldDynamics.jl](https://paulobruno.github.io/talk/juliacon-world-dynamics/)
-- [Deep Reinforcement Learning in foraging simulation](https://paulobruno.github.io/talk/drl-foraging-simulation/)
 <!-- PUBLICATION:END -->
